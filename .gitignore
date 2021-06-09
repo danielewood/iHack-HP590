@@ -1,0 +1,6 @@
+config.plist
+._*
+.fseventsd/fseventsd-uuid
+.DS_Store
+opencore-*.txt
+EFI/APPLE
